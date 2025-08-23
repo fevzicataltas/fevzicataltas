@@ -11,11 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Reponun içeriğini al
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Yılan SVG ve GIF'ini oluştur
       - name: Generate the Snake animation
         uses: Platane/snk@v3
         with:
@@ -24,7 +22,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # SVG'yi GitHub Pages'e gönder
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
