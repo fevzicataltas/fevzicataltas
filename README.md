@@ -58,3 +58,5 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fevzicataltas&show_icons=true&locale=en" alt="fevzicataltas" />
 </p>
+
+![snake gif](https://github.com/fevzicataltas/fevzicataltas/blob/output/github-contribution-grid-snake.gif)
