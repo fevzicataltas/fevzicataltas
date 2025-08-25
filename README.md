@@ -11,7 +11,7 @@
 
 <h3>Benimle iletişime geçin:</h3>
 <p>
-  <a href="https://linkedin.com/in/fevzicataltas" target="_blank">
+  <a href="www.linkedin.com/in/fevzi-çataltaş-9925b629a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" height="30" width="40" />
   </a>
